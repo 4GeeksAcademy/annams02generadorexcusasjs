@@ -1,1 +1,11 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+p{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    
+}
+div{
+    text-align: center;
+    font-size: 30px;
+    
+}
